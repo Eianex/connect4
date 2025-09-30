@@ -116,7 +116,7 @@ def prompt_column() -> int | None:
 if __name__ == "__main__":
     game = Connect4()
 
-    print("\nConnect 4 — console hotseat. Get 4 in a row to win.\n")
+    print("\nConnect 4 console. Get 4 in a row to win.\n")
     print(render_board(game), "\n", sep="")
 
     turns = 0
