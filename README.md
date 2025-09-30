@@ -1,2 +1,2 @@
-# connect4
+# Connect 4
 Connect4 with Python
